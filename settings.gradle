@@ -1,0 +1,2 @@
+include ':mainModule', ':cartmodule', ':goodsmodule', ':basemodule', ':librarymodule', ':ordermodule', ':usermodule'
+//, ':routermodule'
