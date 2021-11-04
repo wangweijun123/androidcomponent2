@@ -41,6 +41,7 @@ public class GoodsDetailActivity extends BaseActivity {
         btnCall.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                //服务 class 与 path 什么时候映射的, 第二什么时候实例化
                 CartModuleService cartModuleService = (CartModuleService) ARouter.getInstance().build(APath.CARTS_SERVICE).navigation();
                 if (null != cartModuleService) {
                     cartModuleService.init(mContext);

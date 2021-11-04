@@ -44,6 +44,7 @@ public class MainActivity extends BaseActivity {
                 }
             }
         });
+        // class 与 path 什么时候映射的, 第二什么时候实例化
         Fragment fragmentHome = (Fragment) ARouter.getInstance().build(APath.GOODS_HOME).navigation();
         Fragment fragmentSort = (Fragment) ARouter.getInstance().build(APath.GOODS_SORT).navigation();
         Fragment fragmentCart = (Fragment) ARouter.getInstance().build(APath.CARTS_FRAGMENT).navigation();
