@@ -3,13 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidComponent-master.iml" filepath="$PROJECT_DIR$/AndroidComponent-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/basemodule/basemodule.iml" filepath="$PROJECT_DIR$/basemodule/basemodule.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cartmodule/cartmodule.iml" filepath="$PROJECT_DIR$/cartmodule/cartmodule.iml" />
-      <module fileurl="file://$PROJECT_DIR$/goodsmodule/goodsmodule.iml" filepath="$PROJECT_DIR$/goodsmodule/goodsmodule.iml" />
-      <module fileurl="file://$PROJECT_DIR$/librarymodule/librarymodule.iml" filepath="$PROJECT_DIR$/librarymodule/librarymodule.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mainModule/mainModule.iml" filepath="$PROJECT_DIR$/mainModule/mainModule.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ordermodule/ordermodule.iml" filepath="$PROJECT_DIR$/ordermodule/ordermodule.iml" />
-      <module fileurl="file://$PROJECT_DIR$/usermodule/usermodule.iml" filepath="$PROJECT_DIR$/usermodule/usermodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/basemodule/AndroidComponent-master.basemodule.iml" filepath="$PROJECT_DIR$/.idea/modules/basemodule/AndroidComponent-master.basemodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cartmodule/AndroidComponent-master.cartmodule.iml" filepath="$PROJECT_DIR$/.idea/modules/cartmodule/AndroidComponent-master.cartmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/goodsmodule/AndroidComponent-master.goodsmodule.iml" filepath="$PROJECT_DIR$/.idea/modules/goodsmodule/AndroidComponent-master.goodsmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/librarymodule/AndroidComponent-master.librarymodule.iml" filepath="$PROJECT_DIR$/.idea/modules/librarymodule/AndroidComponent-master.librarymodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mainModule/AndroidComponent-master.mainModule.iml" filepath="$PROJECT_DIR$/.idea/modules/mainModule/AndroidComponent-master.mainModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ordermodule/AndroidComponent-master.ordermodule.iml" filepath="$PROJECT_DIR$/.idea/modules/ordermodule/AndroidComponent-master.ordermodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usermodule/AndroidComponent-master.usermodule.iml" filepath="$PROJECT_DIR$/.idea/modules/usermodule/AndroidComponent-master.usermodule.iml" />
     </modules>
   </component>
 </project>
